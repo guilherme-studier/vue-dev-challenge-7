@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://steady-moonbeam-1e4789.netlify.app/">
+    <a href="https://jovial-gingersnap-07bbab.netlify.app/">
       Demo
     </a>
     <span> | </span>
